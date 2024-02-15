@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/78898621/236622973-510d666d-6ace-44ff-9240-5a7c964f30bf.png" alt="img"/>
 </div>
 <br/>
-Yaatrigan is a travel application that provides comprehensive information about hotels, restaurants, and attractions worldwide. The application aims to address the inconvenience and lack of filtered results when searching for these establishments on Google.
+We have to search on Google every time we want to know about Hotels, Restaurants, and Attractions if we are traveling somewhere. The results are also not filtered as we want. This led us to make such an application where we can search anyplace in the whole world which tell us about its all hotels, restaurants and attractions and filter according to ratings given by other people.
 
 ## Inspiration
 
@@ -31,6 +31,7 @@ Yaatrigan was built using the following technologies:
 - Material-UI
 - Google Cloud APIs
 - Alan AI
+- Travel Advisor API    
 
 ## Challenges
 
@@ -65,3 +66,9 @@ The future plans for Yaatrigan include the following features:
 - Adding the ability to book rooms in hotels.
 - Enabling users to pre-book tables at restaurants.
 - Providing information on travel options and costs between different locations.
+
+- ## Contributors
+- [Saksham Gupta](https://github.com/Saksham-Gupta-30)
+- [Kartik Goel](https://github.com/kartik739)
+- [Vaibhav](https://github.com/Vaibhav-20022002)
+- [Shaifali](https://github.com/Shaifali-2000)
