@@ -22,13 +22,13 @@ export const getPlacesData = async (type, sw, ne) => {
 
 export const getWeatherData = async (lat, lng) => {
     try {
-        const { data } = await axios.get('https://community-open-weather-map.p.rapidapi.com/find', {
+        const { data } = await axios.get('https://open-weather-map27.p.rapidapi.com/find', {
             params: {
                 lon: lng, lat: lat,
             },
             headers: {
                 'X-RapidAPI-Key': process.env.REACT_APP_RAPIDAPI_KEY_MAP,
-                'X-RapidAPI-Host': 'community-open-weather-map.p.rapidapi.com'
+                'X-RapidAPI-Host': 'open-weather-map27.p.rapidapi.com'
             }
         })
         return data
