@@ -65,3 +65,6 @@ The future plans for Yaatrigan include the following features:
 - Adding the ability to book rooms in hotels.
 - Enabling users to pre-book tables at restaurants.
 - Providing information on travel options and costs between different locations.
+
+
+-
