@@ -67,10 +67,3 @@ The future plans for Yaatrigan include the following features:
 - Enabling users to pre-book tables at restaurants.
 - Providing information on travel options and costs between different locations.
 
-
-=======
-- ## Contributors
-- [Saksham Gupta](https://github.com/Saksham-Gupta-30)
-- [Kartik Goel](https://github.com/kartik739)
-- [Vaibhav](https://github.com/Vaibhav-20022002)
-- [Shaifali](https://github.com/Shaifali-2000)
